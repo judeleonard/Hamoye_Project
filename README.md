@@ -12,7 +12,7 @@ year has a possibility of being hit by a global warming or not.
 Also investigated how each type of quantity of fuel can 
 affect the cost of burning fuels and electricity bills 
 
-# Summarized the analysis by answering important questions indeed from my analysis 
+# Summarized the analysis by answering important questions infered from my analysis 
 
      1. Which year recorded the highest energy generated ?
 
