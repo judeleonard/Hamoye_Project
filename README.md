@@ -16,11 +16,11 @@ affect the cost of burning fuels and electricity bills
 
      1. Which year recorded the highest energy generated ?
 
-     2. Which fuel unit has the highest burning fuel cost?
+     2. Which fuel unit has the highest burning cost?
 
      3. What fuel type was used the most. And why? 
      
-     4. Which year has the highest fuel cost delivered. Why? 
+     4. Which year has the highest fuel cost delivered.And Why? 
      
-     5. Which fuel type was the highest cost of fuel burned. And why? 
+     5. Which fuel type has the highest cost of fuel burned. And why? 
  
