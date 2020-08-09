@@ -1,5 +1,5 @@
 # Introduction 
-# Exploratory Data Analysis on Electricity 
+### Exploratory Data Analysis on Electricity/Intenship assessment for stage-one 
 
 I aimed to explore fuel utility data to understand
 the maps and patterns using statistical approach on
