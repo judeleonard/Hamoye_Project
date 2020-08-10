@@ -1,3 +1,7 @@
+# About this Repository. 
+This repository contains all the materials and my project assessment work
+done at hamoye data Science internship at various stages.
+
 # Introduction 
 ### Exploratory Data Analysis on Electricity/Intenship assessment for stage-one 
 
