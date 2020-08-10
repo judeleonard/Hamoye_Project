@@ -1,5 +1,5 @@
 # About this Repository. 
-This repository contains all the materials and my project assessment work
+This repository contains all the materials and project assessment works
 done at hamoye data Science internship at various stages.
 
 # Introduction 
@@ -16,7 +16,7 @@ year has a possibility of being hit by a global warming or not.
 Also investigated how each type of quantity of fuel can 
 affect the cost of burning fuels and electricity bills 
 
-# Summarized the analysis by answering important questions infered from my analysis 
+#### Summarized the analysis by answering important questions infered from my analysis 
 
      1. Which year recorded the highest energy generated ?
 
