@@ -1,5 +1,5 @@
 # About this Repository. 
-This repository contains all the materials and project assessment works
+This repository contains all the materials and my project  work assessments
 done at hamoye data Science internship at various stages.
 
 # Introduction 
