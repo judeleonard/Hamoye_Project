@@ -12,7 +12,7 @@ In this course we were asked to build a machine learning binary classification m
 ## Data Set Description 
  Our data is composed of 10,000 rows and 14 columns,which comprises of; 
 #### tau1-tau4: 
-The reaction time of each network participate.
+The reaction time of each network participant.
 #### p1-p4:
 Nominal power produced either positive or negative consumed by each network participant. 
 #### g1-g4:
