@@ -18,7 +18,7 @@ Nominal power produced either positive or negative consumed by each network part
 #### g1-g4:
 Price elasticity coefficient for each network participant. 
 #### Stab:
-Numeric values indicating (-) or (+).
+Numeric values indicating (-) as stable  or (+) as unstable.
 #### Stabf:
 Categorical label (stable or unstable). 
  
