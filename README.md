@@ -3,7 +3,7 @@ This repository contains all the materials and my project  work assessments
 done at hamoye data Science internship at various stages.
 
 # Introduction 
-### Exploratory Data Analysis on Electricity/Intenship assessment for stage-one 
+### Exploratory Data Analysis on Electricity/Internship assessment for stage-one 
 
 I aimed to explore fuel utility data to understand
 the maps and patterns using statistical approach on
